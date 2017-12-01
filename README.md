@@ -1,2 +1,2 @@
 # Zellteilung
-Seminarvortrag: Regulierung von Zellteilung
+Seminarvortrag: Regulierung von Zellteilung bei Bakterien
